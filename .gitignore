@@ -60,3 +60,5 @@ cmake-build-debug/
 local.properties
 .log
 .exe
+
+workflow/whisper
